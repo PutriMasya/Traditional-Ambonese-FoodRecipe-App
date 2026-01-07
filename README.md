@@ -1,16 +1,23 @@
-# resep_app
+# 🍽️ Traditional Ambonese Food Recipe App
 
-A new Flutter project.
+The Traditional Ambonese Food Recipe App is a mobile application developed using **Flutter** that provides information about traditional food recipes from Ambon, Maluku. This application aims to introduce and preserve Ambonese culinary heritage through a modern digital platform.
 
-## Getting Started
+## 📱 Features
+- List of traditional Ambonese food recipes
+- Detailed ingredients and cooking instructions
+- Simple and user-friendly interface
+- Mobile application built with Flutter
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Android & Windows (development environment)
 
-A few resources to get you started if this is your first Flutter project:
+## ▶️ How to Run the Project
+1. Make sure Flutter is installed on your system
+2. Clone this repository
+3. Run the following commands:
+```bash
+flutter pub get
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
