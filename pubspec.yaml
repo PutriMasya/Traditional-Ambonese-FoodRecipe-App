@@ -1,0 +1,40 @@
+name: resep_app
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0-323.0.dev
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.0.0 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/rujak_natsepa.jpeg
+    - assets/images/papeda.jpeg
+    - assets/images/ikan_kuah_kuning.jpg
+    - assets/images/sambal_colo_colo.jpg
+    - assets/images/kohu_kohu.jpeg
+    - assets/images/nasi_bambu.jpg
+    - assets/images/nasi_lapola.jpg
+    - assets/images/nasi_kelapa.jpeg
+    - assets/images/ikan_bakar_colo_colo.jpg
+    - assets/images/ikan_asar.jpeg
+    - assets/images/ikan_kedondong.jpeg
+    - assets/images/sagu_serut.jpeg
+    - assets/images/sagu_tumbu.jpeg
+    - assets/images/roti_kering_kenari.jpg
+    - assets/images/ampas_terigu.jpg
+    - assets/images/kota_ambon.jpg
+   
+
